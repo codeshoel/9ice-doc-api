@@ -1,5 +1,10 @@
 # Ignored files/Dirs
 
+# Dirs
 env/
-/todo.code-workspace
 clients/
+
+# Files
+/todo.code-workspace
+/.gitignore
+
